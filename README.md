@@ -1,8 +1,8 @@
+<img align="right" src="https://github.com/gyf304/gyf304/blob/main/github-metrics.svg">
+
 ### Hi there 👋 Frank Here
 
 Also known as: Yifan Gu, 顾屹凡
-
-![Metrics](https://github.com/gyf304/gyf304/blob/main/github-metrics.svg)
 
 [🔗 Personal Website](https://yifangu.com)
 
