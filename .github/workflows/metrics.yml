@@ -15,5 +15,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, repositories, metadata
+          base: header, repositories
           config_padding: 0%
+          plugin_isocalendar: yes
